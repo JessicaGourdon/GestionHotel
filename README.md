@@ -16,4 +16,5 @@ Enfin, le client pourra se rendre au spa et choisir l'un des services offerts.
 
 
 Voici un exemple d'éxécution :
+![alt text](https://github.com/JessicaGourdon/GestionHotel/ScreenHotel.png)
 
