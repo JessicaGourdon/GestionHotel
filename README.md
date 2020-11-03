@@ -2,8 +2,9 @@
 # Création et gestion d'un hôtel 
 
 ## Introduction
-Ce projet réalisé en 3e année en spécialité en Mathématiques appliquées et Modélisation à Polytech Nice Sophia dans le cadre du cours de programmation orientée objet.
+Ce projet a été réalisé en 3e année en spécialité en Mathématiques appliquées et Modélisation à Polytech Nice Sophia dans le cadre du cours de programmation orientée objet.
 Le langage de programmation utilisé pour la réalisation de celui-ci est Java.
+Il s'agissait d'un projet en groupe de deux.
 
 ### But du projet :
 L'objectif de ce projet est la conception ainsi que la gestion de l'hôtel « Blue Bay Curaçao ».
@@ -14,5 +15,5 @@ Enfin, le client pourra se rendre au spa et choisir l'un des services offerts.
 
 
 
-Voici le début d'une exécution :
-![alt text](https://github.com/JulienChoukroun/JavaMAM3S5/blob/master/Documentation/testPart1.png "Début d'exécution")
+Voici un exemple d'éxécution :
+
